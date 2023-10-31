@@ -1,0 +1,9 @@
+.tab-list li{
+    display: inline-block;
+    border: solid 1px black;
+    border-radius: 12px;
+    padding: 6px;
+}
+.tab-list li a {
+    text-decoration: none;
+}

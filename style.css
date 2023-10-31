@@ -1,0 +1,6 @@
+.tab-content .tab-pane {
+    display: none;
+}
+.tab-content .tab-pane:first-child {
+    display: block;
+}
